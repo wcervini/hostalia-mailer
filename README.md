@@ -1,7 +1,8 @@
 Google Mailer
 =============
 
-Provides Google Gmail integration for Symfony Mailer.
+Provides a hostalia integration for Symfony Mailer.
+This is a fork from Google-Mailer by 
 
 Resources
 ---------
